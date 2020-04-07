@@ -1,0 +1,6 @@
+C:\Users\Kuso\Desktop\Lenard Skola\kusanovicLenardVjezba7.4.2020\kusanovicLenardVjezba7.4.2020\bin\Debug\kusanovicLenardVjezba7.4.2020.exe.config
+C:\Users\Kuso\Desktop\Lenard Skola\kusanovicLenardVjezba7.4.2020\kusanovicLenardVjezba7.4.2020\bin\Debug\kusanovicLenardVjezba7.4.2020.exe
+C:\Users\Kuso\Desktop\Lenard Skola\kusanovicLenardVjezba7.4.2020\kusanovicLenardVjezba7.4.2020\bin\Debug\kusanovicLenardVjezba7.4.2020.pdb
+C:\Users\Kuso\Desktop\Lenard Skola\kusanovicLenardVjezba7.4.2020\kusanovicLenardVjezba7.4.2020\obj\Debug\kusanovicLenardVjezba7.4.2020.csprojAssemblyReference.cache
+C:\Users\Kuso\Desktop\Lenard Skola\kusanovicLenardVjezba7.4.2020\kusanovicLenardVjezba7.4.2020\obj\Debug\kusanovicLenardVjezba7.4.2020.exe
+C:\Users\Kuso\Desktop\Lenard Skola\kusanovicLenardVjezba7.4.2020\kusanovicLenardVjezba7.4.2020\obj\Debug\kusanovicLenardVjezba7.4.2020.pdb
